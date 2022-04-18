@@ -16,5 +16,5 @@ Create your database for the notes zone and connect to the mongodb
 
 ## Demo
 
-![Alt text](./frontend/public/notes-zone.png?raw=true "Notes zone login")
-![Alt text](./frontend/public/notes-zone-1.png?raw=true "NotesZone")
+![Alt text](./notes-zone.PNG?raw=true "Notes zone login")
+![Alt text](./notes-zone-1.PNG?raw=true "NotesZone")
